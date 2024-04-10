@@ -1059,10 +1059,12 @@ a:hover {
 
 .footer-paralax {
   padding: 4rem 0 0 0;
+  position: center;
 }
 
 .contact-mf {
   margin-top: 4rem;
+  position: center;
 }
 
 /*======================================
@@ -1229,6 +1231,15 @@ footer .credits a {
   .testimonial-box .description {
     padding: 0 5rem;
   }
+
+
+  .fucking-center{
+    position: relative;
+  }
+
+
+
+
 
   .post-box,
   .form-comments,
